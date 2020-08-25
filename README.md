@@ -13,13 +13,14 @@ My project is will focus on the spread of foreign commerical Airbnb hosts and li
 The data has been analyzed, cleansed and aggregated where appropriate to faciliate public discussion. I will be importing the csv files using Pandas. After that, the final cleaned csv file was used in Tableau to make my final presentation.
 
 ## Getting Started
-	1. Download/Clone the repo
+  1. Download/Clone the repo
   2. Unzip the two zipped files (These files were too large to upload without compressing)
   3. Open the Jupyter notebook file and make sure all csv files are in the same directory
   4. The Jupyter notebook file will guide you through all my analysis 
   
 ## Contact
 Name : Christian Rios-Chambi 
+
 email: crioschambi@gmail.com
 
 
