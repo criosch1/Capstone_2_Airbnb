@@ -21,6 +21,6 @@ The data has been analyzed, cleansed and aggregated where appropriate to facilia
 ## Contact
 Name : Christian Rios-Chambi 
 
-email: crioschambi@gmail.com
+Email : crioschambi@gmail.com
 
 
