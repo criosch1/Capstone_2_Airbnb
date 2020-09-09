@@ -1,4 +1,5 @@
-## Capstone_2_Airbnb
+## Capstone_3_Airbnb
+# Paradise Lost? The Commercialization of Airbnb in Crete, Greece
 This is my 2nd Capstone project for the TTP NYC GALVANIZE Data Analyst Training Accelerator Program
 
 	
